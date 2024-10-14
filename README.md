@@ -58,7 +58,7 @@ pip install numpy
 pip install shapely
 pip install matplotlib
 pip install --upgrade protobuf==3.20.0
-pip install fairlearn
+conda install cmdstanpy
 ```
 
 ## Dataset
