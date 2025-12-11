@@ -5,9 +5,9 @@ This repository is provided to facilitate the replication of the manuscript enti
 
 ## Experimental environment
 
-We use Python 3.8 for our experiments. We use the IBM AI Fairness 360 (AIF360) toolkit to implement bias mitigation methods and compute fairness metrics. 
+We use Python 3.11 for our experiments. We use the IBM AI Fairness 360 (AIF360) toolkit to implement bias mitigation methods and compute fairness metrics. 
 
-Installation instructions for Python 3.8 and AIF360 can be found at https://github.com/Trusted-AI/AIF360. That page provides several ways to install it. We recommend creating a virtual environment for it (as shown below), because AIF360 requires specific versions of many Python packages which may conflict with other projects on your system. If you want to try other installation methods or encounter any errors during the installation process, please refer to the page (https://github.com/Trusted-AI/AIF360) for help.
+Installation instructions for Python 3.11 and AIF360 can be found at https://github.com/Trusted-AI/AIF360. That page provides several ways to install it. We recommend creating a virtual environment for it (as shown below), because AIF360 requires specific versions of many Python packages which may conflict with other projects on your system. If you want to try other installation methods or encounter any errors during the installation process, please refer to the page (https://github.com/Trusted-AI/AIF360) for help.
 
 #### Conda
 
@@ -16,10 +16,10 @@ is sufficient (see [the difference between Anaconda and
 Miniconda](https://conda.io/docs/user-guide/install/download.html#anaconda-or-miniconda)
 if you are curious) if you do not already have conda installed.
 
-Then, to create a new Python 3.8 environment, run:
+Then, to create a new Python 3.11 environment, run:
 
 ```bash
-conda create --name aif360 python=3.8
+conda create --name aif360 python=3.11
 conda activate aif360
 ```
 
