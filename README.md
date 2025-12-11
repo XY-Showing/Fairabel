@@ -1,5 +1,6 @@
 # Fairabel
-This repository is to facilitate the replication of the bias mitigation approach.
+This repository is provided to facilitate the replication of the manuscript entitled ``Software Fairness Analysis and Repair via Causal Model-Guided Data Mutation''.
+
 
 
 ## Experimental environment
