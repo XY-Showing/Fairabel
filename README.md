@@ -1,5 +1,6 @@
-# Fairabel
-This repository is provided to facilitate the replication of the manuscript entitled ``Software Fairness Analysis and Repair via Causal Model-Guided Data Mutation''.
+# Fairabel Approach
+
+Fairabel is a pre-processing approach designed to repair fairness issues in machine learning software. This repository contains the replication package for the paper titled "Software Fairness Analysis and Repair via Causal Model-Guided Data Mutation".
 
 
 
